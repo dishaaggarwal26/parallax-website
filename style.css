@@ -1,0 +1,104 @@
+*{margin:0;
+padding: 0;;}
+
+.heading{
+    
+    background-image:url("rose.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height:1100px;
+    
+}
+
+.heading .w1{left:500px;
+top:300px;
+height: 80px;
+width:425px;
+display: flex;
+position:relative;
+background-color: black;
+color:white;
+justify-content:center;
+align-items: center;}
+
+.para{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    top:700px;
+}
+.heading1{
+    
+    background-image:url("r1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height:1100px;
+    
+}
+.headcolor{color:white;
+}
+.para1{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    top:200px;
+    margin-bottom: 800px;
+}
+
+.heading2{
+    
+    background-image:url("lily.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height:1100px;
+    
+}
+.para2{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    top:200px;
+}
+
+
+.heading3{
+    
+    background-image:url("rose.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height:1100px;
+    
+}
+
+.para3{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    top:200px;
+}
+
+.heading4{
+    
+    background-image:url("NO.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height:1100px;
+    
+}
+
+.para4{
+    background-color: black;
+    color:white;
+    padding: 10px;
+    font-size: 20px;
+    position: relative;
+    top:200px;
+}
